@@ -154,7 +154,7 @@ namespace HumanTranslate
 
                 case 7:
 
-                    lblQuestion.Text = "In Japanese, how do you say" + "Goodnight" + "?";
+                    lblQuestion.Text = "In Japanese, how do you say " + "Goodnight" + "?";
 
                     button1.Text = "おやすみなさい。";
                     button2.Text = "こにちは";

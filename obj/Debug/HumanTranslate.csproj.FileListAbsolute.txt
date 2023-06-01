@@ -1,0 +1,11 @@
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.csproj.AssemblyReference.cache
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.Properties.Resources.resources
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.csproj.GenerateResource.cache
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\bin\Debug\HumanTranslate.exe.config
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\bin\Debug\HumanTranslate.exe
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\bin\Debug\HumanTranslate.pdb
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.exe
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.pdb
+C:\Users\Jeramie\Desktop\Coding\projects\HumanTranslate\obj\Debug\HumanTranslate.Form1.resources
